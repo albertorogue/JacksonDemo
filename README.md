@@ -1,5 +1,5 @@
 # JacksonDemo
-Json deserialization exploitation example using Jackson
+JSON deserialization exploitation example using Jackson
 
 ## Step 1
 Compile evil java class that will be loaded remotely to the vulnerable machine:
